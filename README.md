@@ -2,6 +2,7 @@
 
 ## Interpolations
 ### To Do:
+
 Newton Divided Differences
 Spline
 Bezier Curve
