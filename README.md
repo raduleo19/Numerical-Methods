@@ -3,9 +3,9 @@
 ## Interpolations
 ### To Do:
 
-Newton Divided Differences
-Spline
-Bezier Curve
+*Newton Divided Differences
+*Spline
+*Bezier Curve
   
 ## Numerical Integration and Differentiation
 ### To Do
