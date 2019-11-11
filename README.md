@@ -1,11 +1,13 @@
 # Numerical-Methods
 
 ## Interpolations
++ Spline Interpolation
++ Lagrange Interpolation
++ Neville Interpolation
+
 ### To Do:
 
 -Newton Divided Differences
-
--Spline
 
 -Bezier Curve
   
